@@ -1,0 +1,2 @@
+public class make1 {
+}
