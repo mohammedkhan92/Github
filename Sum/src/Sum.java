@@ -1,13 +1,15 @@
    public class Sum{
-           System.out.println(Sum(10, 12));
-          }System.out.println(Sum(5, 5));
+         public static void main(String[] args){
+         Sum(2,4);
+         }
+         public static void Sum(int a, int b){
+             System.out.println(a+b);
+             System.out.println(a+b);
+
+         }
+
+   }
 
 
 
-  public static int Sum(int a, int b) {
-      if (a == b){
-      return 2*(a+b);
-} else{
-     return (a+b);
-}
-}
+

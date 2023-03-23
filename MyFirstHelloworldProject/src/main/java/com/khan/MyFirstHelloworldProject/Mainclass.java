@@ -12,6 +12,8 @@ public class Mainclass {
       car.mileage = 20;
       car.maxSpeed = 200;
 
+      System.out.println(new Vehicle());
+
 
     }
 
