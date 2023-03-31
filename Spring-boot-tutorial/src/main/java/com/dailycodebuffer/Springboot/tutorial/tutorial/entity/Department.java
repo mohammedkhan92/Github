@@ -55,6 +55,9 @@ public class Department {
         this.departmentCode = departmentCode;
     }
 
+    public Department() {
+    }
+
     @Override
     public String toString() {
         return "Department{" +
