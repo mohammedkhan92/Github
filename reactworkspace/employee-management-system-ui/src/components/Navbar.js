@@ -7,7 +7,7 @@ const Navbar = () => {
       <p className= "text-white font-bold">Employee Management System</p>
     </div>
 
-  </div>;
+  </div>
   )
 }
 
