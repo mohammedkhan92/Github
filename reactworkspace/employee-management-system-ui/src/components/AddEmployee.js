@@ -9,6 +9,11 @@ const AddEmployee = () => {
          emailId: "",
         });
 
+        const handleChange = (e) =>{
+            const value = e.target.value;
+            setEmployee([e.target.name]: value);
+        }
+
 
   return (
     <div className="flex max-w-2xl mx-auto shadow borderb">
